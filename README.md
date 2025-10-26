@@ -1,7 +1,13 @@
 # 👋 Hi there, I'm Leandro Reis
 
 ## 🧑‍💻 About Me
-![skydive](https://github.com/user-attachments/assets/199c2b62-4394-46b1-a0a5-101e51bc4494)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/199c2b62-4394-46b1-a0a5-101e51bc4494" 
+       alt="skydive" 
+       width="500" 
+       height="340" 
+       style="border-radius: 12px;"/>
+</p>
 
 
 Hello! I'm a **backend developer** passionate about building scalable, event-driven systems and cloud-native applications.  
@@ -19,22 +25,29 @@ I specialize in **Java (Spring Boot)** and **AWS**, with strong interests in **m
 
 Here’s a quick snapshot of the main technologies I work with across my repositories:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroreisdev&layout=compact&theme=github_dark)](https://github.com/leandroreisdev)
+<p align="left">
+  <a href="https://github.com/leandroreisdev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandropldev&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  </a>
+</p>
 
 ---
 
 ## 🏷️ Tech Stack & Certifications
 
 ![Java Developer](https://img.shields.io/badge/Java-Developer-orange?logo=openjdk&logoColor=white&style=for-the-badge)
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Expert-brightgreen?logo=springboot&logoColor=white&style=for-the-badge)
+
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Practitioner-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker&logoColor=white&style=for-the-badge)
 
 ---
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/leandroreisdev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/developer-reis)
 - 📧 developer.reis@gmail.com
 
 ---
