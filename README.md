@@ -1,10 +1,8 @@
 # 👋 Hi there, I'm Leandro Reis
 
 ## 🧑‍💻 About Me
+![skydive](https://github.com/user-attachments/assets/199c2b62-4394-46b1-a0a5-101e51bc4494)
 
-<video src="download.mp4" width="100%" controls poster="https://img.shields.io/badge/▶️%20Watch%20Intro%20Video-blue?style=for-the-badge">
-Your browser does not support the video tag.
-</video>
 
 Hello! I'm a **backend developer** passionate about building scalable, event-driven systems and cloud-native applications.  
 I specialize in **Java (Spring Boot)** and **AWS**, with strong interests in **microservices architecture**, **clean code**, and **software design patterns**.
