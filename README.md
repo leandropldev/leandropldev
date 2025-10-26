@@ -2,9 +2,9 @@
 
 ## 🧑‍💻 About Me
 
-🎥 **Short Intro:**
-> [![Watch the video](https://img.shields.io/badge/▶️%20Watch%20My%20Intro%20Video-blue?style=for-the-badge)](download.mp4)
-> *(Click to play the video)*
+<video src="download.mp4" width="100%" controls poster="https://img.shields.io/badge/▶️%20Watch%20Intro%20Video-blue?style=for-the-badge">
+Your browser does not support the video tag.
+</video>
 
 Hello! I'm a **backend developer** passionate about building scalable, event-driven systems and cloud-native applications.  
 I specialize in **Java (Spring Boot)** and **AWS**, with strong interests in **microservices architecture**, **clean code**, and **software design patterns**.
@@ -25,19 +25,25 @@ Here’s a quick snapshot of the main technologies I work with across my reposit
 
 ---
 
-### 🛠️ Tech Stack
-#### Main
-`Java` · `Spring Boot` · `AWS` · `PostgreSQL` · `Docker` · `GitHub Actions`
+## 🏷️ Tech Stack & Certifications
 
-#### Others
-`Angular` · `TypeScript` · `Tailwind CSS` · `Python` · `Node.js`
+![Java Developer](https://img.shields.io/badge/Java-Developer-orange?logo=openjdk&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Expert-brightgreen?logo=springboot&logoColor=white&style=for-the-badge)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Practitioner-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker&logoColor=white&style=for-the-badge)
 
 ---
 
 ## 📫 Contact Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/leandroreisdev)
-- 📧 leandroreis.dev@gmail.com
+- 📧 developer.reis@gmail.com
 
 ---
 
-⭐️ _Thanks for visiting my profile! Feel free to explore my repositories and connect with me._
+<div align="center">
+
+### 👀 Profile Views  
+![Visitor Count](https://komarev.com/ghpvc/?username=leandroreisdev&style=for-the-badge&color=blue)
+
+⭐️ _Thanks for visiting my profile! Feel free to explore my repositories and connect with me_
